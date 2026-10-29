@@ -1,0 +1,9 @@
+[package]
+name = "image_generator_viewer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.104"
+nvml-wrapper = "0.13.0"
+ratatui = "0.30.2"
